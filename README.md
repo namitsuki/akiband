@@ -35,3 +35,4 @@
 - https://japanwonderguide.com/maid-cafe-tokyo/  （マップの載せ方が良いと思った）
 - https://akihabara-japan.com/matome-conceptcafe/  （投稿内容に書きたい情報たちの参考になりそう）
 - https://akihabara-bc.jp/akihabara-conceptcafe-2020/  （Twitterリンクの載せ方が良いと思った）
+- https://uridoki.net/others/kiji_192398/  （必要情報のまとめ方が分かりやすかった）
