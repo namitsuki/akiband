@@ -32,3 +32,6 @@
 ## 検討している内容（自分へのメモ用を兼ねて）
 - ジャンルは「メイドカフェ」「その他コンセプトカフェ」「アイドルグッズ店」「その他」を予定
 - 投稿内容には「店名」「紹介文」「住所」「営業時間」「SNS(Twitter?)のリンク」「Google Map」を載せたい
+- https://japanwonderguide.com/maid-cafe-tokyo/　（マップの載せ方が良いと思った）
+- https://akihabara-japan.com/matome-conceptcafe/　（投稿内容に書きたい情報たちの参考になりそう）
+- https://akihabara-bc.jp/akihabara-conceptcafe-2020/　（Twitterリンクの載せ方が良いと思った）
